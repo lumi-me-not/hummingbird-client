@@ -3064,7 +3064,7 @@ ember-cli-mirage@0.4.7:
     pretender "^1.6.1"
     route-recognizer "^0.2.3"
 
-ember-cli-moment-shim@3.7.1:
+ember-cli-moment-shim@3.7.1, ember-cli-moment-shim@^3.6.0:
   version "3.7.1"
   resolved "https://registry.yarnpkg.com/ember-cli-moment-shim/-/ember-cli-moment-shim-3.7.1.tgz#3ad691c5027c1f38a4890fe47d74b5224cc98e32"
   dependencies:
@@ -3801,12 +3801,13 @@ ember-photoswipe@^0.4.1:
     fastboot-transform "^0.1.2"
     photoswipe "^4.1.2"
 
-ember-pikaday@2.2.4:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/ember-pikaday/-/ember-pikaday-2.2.4.tgz#72c2ada3e5c028f66b56df760bf9f1583e6d5b99"
+ember-pikaday@2.2.6:
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/ember-pikaday/-/ember-pikaday-2.2.6.tgz#c3dd878af716262fc808f57fbdcc362697008a4c"
   dependencies:
-    ember-cli-babel "^5.1.7"
+    ember-cli-babel "^6.6.0"
     ember-cli-htmlbars "^1.1.1"
+    ember-cli-moment-shim "^3.6.0"
     ember-cli-node-assets "^0.2.2"
     fastboot-transform "^0.1.1"
     pikaday "^1.5.1"
