@@ -68,7 +68,7 @@
     "ember-cp-validations": "3.5.2",
     "ember-data": "~3.2.0",
     "ember-elsewhere": "1.0.5",
-    "ember-file-upload": "^2.5.0",
+    "ember-file-upload": "^2.5.3",
     "ember-flickity": "vevix/ember-flickity#npm-vendor",
     "ember-fr-markdown-file": "^0.0.0",
     "ember-href-to": "1.15.1",
