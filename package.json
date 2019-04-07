@@ -24,7 +24,7 @@
     "@ember/jquery": "^0.6.0",
     "@ember/optional-features": "^0.6.3",
     "algoliasearch": "^3.24.11",
-    "autoprefixer": "^9.0.0",
+    "autoprefixer": "^9.5.1",
     "autosize": "^4.0.0",
     "bootstrap": "4.0.0-alpha.4",
     "broccoli-asset-rev": "^3.0.0",
